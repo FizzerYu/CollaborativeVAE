@@ -145,7 +145,7 @@ class CVAE:
                       "vloss=", "{:.5f}".format(v_loss)
         return gen_loss
 
-    def transform(self, data_x):
+    def transform(self, data_x):  
         data_en = self.sess.run(self.z_mean, feed_dict={self.x: data_x})
         return data_en
 

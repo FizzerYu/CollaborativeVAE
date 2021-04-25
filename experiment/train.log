@@ -1,0 +1,13 @@
+2021-04-24 16:51:30 INFO     Namespace(gpu=1, model_summary=True, print_on_screen=True, save_path='/home/lichangyv/code/cvae/torch/experiment', seed=1)
+2021-04-24 16:51:38 INFO     initializing sdae model
+2021-04-24 16:51:38 INFO     fitting data starts...
+2021-04-24 16:51:40 INFO     Layer 1
+2021-04-24 16:51:42 INFO     ==> run_model epoch:0 loss:0.0285
+2021-04-24 16:51:43 INFO     ==> run_model epoch:1 loss:0.0264
+2021-04-24 16:51:44 INFO     Layer 2
+2021-04-24 16:51:44 INFO     ==> run_model epoch:0 loss:0.4136
+2021-04-24 16:51:45 INFO     ==> run_model epoch:1 loss:0.4384
+2021-04-24 16:51:46 INFO     ==> run_latent epoch:0 loss:117.6468
+2021-04-24 16:51:46 INFO     ==> run_latent epoch:1 loss:121.1608
+2021-04-24 16:51:48 INFO     ==> run_all epoch:0 loss:349.4221
+2021-04-24 16:51:49 INFO     ==> run_all epoch:1 loss:358.3425

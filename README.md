@@ -1,8 +1,8 @@
 # Collaborative Variational Autoencoder
-pytorch implementation of Collaborative Variational Autoencoder.
+pytorch implementation of Collaborative Variational Autoencoder.      
 Origin code could be seen in [Collaborative Variational Autoencoder](https://github.com/eelxpeng/CollaborativeVAE)
 
-Still in progressing & unfinished!!!
+**Still in progressing & unfinished!!!**
 - loss check
 - model save
 
